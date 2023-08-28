@@ -19,20 +19,21 @@ Let's connect and grow together !!!
 >
 > “Talk is meaningless without data”
 
-<img align='right' width=46% src="https://github-readme-stats.vercel.app/api?username=rajshilin&show_icons=true">
-<img align="center" width=46% src="https://github-readme-streak-stats.herokuapp.com/?user=rajshilin&" alt="rajshilin" /></p>
+
 
 ### 🛠️ Tech stack
 
 | Type         | Skills            |
 | -------------- | ---------        |
-| Mobile Automation    | Appium |
 | Web (Front-End) Automation    | Selenium WebDriver |
+| Mobile Automation    | Appium |
 | API Automation    | REST-Assured, Postman |
 | Script    | Core Java, Groovy, Linux/Unix cmds |
-| BDD Framework    | Cucumber, Cucumber-js |
-| CI/CD    |Jenkins CI, AWS |
-| Database    | MySql, SQL |
+| BDD Framework    | Cucumber, Cucumber-js, Gharkin |
+| CI/CD    |Jenkins CI |
+|Cloud    | AWS, Azure  |
+|Build Tool    | Maven |    
+| Database    | MySql, SQL, Teradata, Snowflake |
 | Unit Test Framework    | JUnit5, TestNG |
 | Version Control    | GIT, SVN [GitHub, Gitlab, Stash and BitBucket] |
 | Performance    | LoadRunner |
