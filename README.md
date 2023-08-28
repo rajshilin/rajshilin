@@ -37,6 +37,7 @@ Let's connect and grow together !!!
 | Unit Test Framework    | JUnit5, TestNG |
 | Version Control    | GIT, SVN [GitHub, Gitlab and BitBucket] |
 | Performance    | LoadRunner |
+|Reporting    | Allure, ExtentReports  |
 | IDE    | IntelliJ IDEA, Eclipse |
 | Defect Tracking and Project Management Tool    | JIRA, Zypher |
 | Test Management Tool    | XRay |
