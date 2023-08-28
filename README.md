@@ -35,7 +35,7 @@ Let's connect and grow together !!!
 |Build Tool    | Maven |    
 | Database    | MySql, SQL, Teradata, Snowflake |
 | Unit Test Framework    | JUnit5, TestNG |
-| Version Control    | GIT, SVN [GitHub, Gitlab, Stash and BitBucket] |
+| Version Control    | GIT, SVN [GitHub, Gitlab and BitBucket] |
 | Performance    | LoadRunner |
 | IDE    | IntelliJ IDEA, Eclipse |
 | Defect Tracking and Project Management Tool    | JIRA, Zypher |
