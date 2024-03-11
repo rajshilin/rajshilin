@@ -1,14 +1,14 @@
 ## Automation QA Engineer | Manual Test Engineer | 
 
-"I am a Software QA Analyst at Antino, where I deliver high-quality software products that meet the needs and expectations of clients and users. I have over two years of experience in various QA and testing roles across different domains and platforms, including telecommunications, CRM, and rental applications. 
+" 🚀 Welcome to my QA journey!
 
-In my current role, I perform exploratory, sanity, and regression testing on a rental application that has been successfully deployed on the Play Store and iOS Store. I collaborate with the development team to identify and prioritize future enhancements and maintenance tasks, proactively report and resolve bugs and issues, and participate in requirement analysis and test planning. I utilize tools such as Postman, Rest Assured, SQL, Linux, Git, Jenkins, Core Java, Automation, Selenium, TestNG, Maven, Azure, and JIRA to ensure comprehensive test coverage and quality assurance.
+🔍 I'm Rajendra Shilin, a seasoned Software QA Analyst dedicated to crafting flawless software experiences. At Antino, I'm the driving force behind ensuring high-quality software products that exceed client expectations.
 
-I hold a BE degree in Electronics & Telecommunication Engineering from AISSMS Institute of Information Technology, where I achieved a commendable score of 69.50% in 2021. I have also completed a certified Full Software Testing Course, which has further enhanced my knowledge and skills in the field. I am proficient in manual and automation testing, ETL testing, database testing, API testing, functional testing, and mobile application testing. I have also received multiple awards and honors for my innovative projects in the field.
+💡 With 2+ years of diverse experience spanning telecom, CRM, and rental apps, I thrive on the challenge of delivering perfection. From manual testing to automation with Selenium and beyond, I'm equipped with the tools and expertise to ace every project.
 
-I am eager to connect with professionals in the QA field to expand my knowledge and explore new opportunities. I am motivated by challenging and rewarding projects that require creativity, collaboration, and problem-solving. I value continuous learning, feedback, and improvement, and strive to deliver excellence and customer satisfaction. 
+🎓 Holding a BE in Electronics & Telecommunication Engineering and certified in Full Software Testing, I'm on a relentless quest for excellence and innovation.
 
-Let's connect and grow together !!!
+💬 Let's connect and revolutionize the world of QA together !!!
 
 ### **My quotes**
 > “Test without an assertion is not a test”
