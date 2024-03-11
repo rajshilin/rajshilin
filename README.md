@@ -1,6 +1,6 @@
 ## Automation QA Engineer | Manual Test Engineer | 
 
-" 🚀 Welcome to my QA journey!
+🚀 Welcome to my QA journey!
 
 🔍 I'm Rajendra Shilin, a seasoned Software QA Analyst dedicated to crafting flawless software experiences. At Antino, I'm the driving force behind ensuring high-quality software products that exceed client expectations.
 
