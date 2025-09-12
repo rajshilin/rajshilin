@@ -4,7 +4,7 @@
 
 🔍 I'm Rajendra Shilin, a seasoned Software QA Analyst dedicated to crafting flawless software experiences. At Antino, I'm the driving force behind ensuring high-quality software products that exceed client expectations.
 
-💡 With 2+ years of diverse experience spanning telecom, CRM, and rental apps, I thrive on the challenge of delivering perfection. From manual testing to automation with Selenium and beyond, I'm equipped with the tools and expertise to ace every project.
+💡 With 4+ years of diverse experience spanning telecom, CRM, and rental apps, I thrive on the challenge of delivering perfection. From manual testing to automation with Selenium and beyond, I'm equipped with the tools and expertise to ace every project.
 
 🎓 Holding a BE in Electronics & Telecommunication Engineering and certified in Full Software Testing, I'm on a relentless quest for excellence and innovation.
 
