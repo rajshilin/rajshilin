@@ -1,44 +1,56 @@
-## Automation QA Engineer | Manual Test Engineer | 
+🚀 SDET | QA Automation Engineer (Java | Selenium | API)
 
-🚀 Welcome to my QA journey!
+👋 Hi, I'm Rajendra Shilin — an experienced SDET / QA Automation Engineer with 4.5+ years of expertise in building scalable automation frameworks and testing enterprise-grade applications.
 
-🔍 I'm Rajendra Shilin, a seasoned Software QA Analyst dedicated to crafting flawless software experiences. At Antino, I'm the driving force behind ensuring high-quality software products that exceed client expectations.
+💡 About Me
+🔹 Strong experience in API Automation (Rest Assured) & UI Automation (Selenium + Java)
+🔹 Expertise in designing TestNG + POM-based automation frameworks
+🔹 Worked on Airline Cargo Systems (SkyChain, ONO, PROS, IDP)
+🔹 Hands-on with CI/CD (Jenkins, Maven) and reporting tools
+🔹 Experience in ETL Testing & DB Validation (Teradata → Snowflake)
+🔹 Skilled in Manual + Automation Testing (Web, API, Mobile)
 
-💡 With 4+ years of diverse experience spanning telecom, CRM, and rental apps, I thrive on the challenge of delivering perfection. From manual testing to automation with Selenium and beyond, I'm equipped with the tools and expertise to ace every project.
+🎯 Currently targeting SDET roles in product-based companies
 
-🎓 Holding a BE in Electronics & Telecommunication Engineering and certified in Full Software Testing, I'm on a relentless quest for excellence and innovation.
+🧠 What I Do
 
-💬 Let's connect and revolutionize the world of QA together !!!
+✔️ Build end-to-end automation frameworks
+✔️ Automate REST APIs with validations & schema checks
+✔️ Design scalable test architecture using POM + TestNG
+✔️ Perform data validation, backend testing & integration testing
+✔️ Ensure quality across UI, API, DB layers
 
-### **My quotes**
-> “Test without an assertion is not a test”
->
-> “Tool does matter unless you know how to create it”
->
-> “I’m faster, my bots are faster than me”
->
-> “Talk is meaningless without data”
+🛠️ Tech Stack
+Category	Skills
+💻 Languages	Java (8, 17), SQL
+🌐 UI Automation	Selenium WebDriver
+🔗 API Testing	Rest Assured, Postman
+🧪 Frameworks	TestNG, Cucumber (BDD), POM
+⚙️ Build & CI/CD	Maven, Jenkins
+☁️ Cloud	Azure (Fundamentals), AWS (Basics)
+🗄️ Database	MySQL, Teradata, Snowflake
+📊 Reporting	Extent Reports, Allure
+🔧 Tools	Git, JIRA, XRay, Postman
+📱 Mobile	Appium
+🧰 Others	JSON/XML Validation, Log4j2, SLF4J
+🏆 Achievements
+🚀 Improved regression coverage by 60%
+⚡ Reduced manual effort by 40% via automation
+✅ Delivered multiple CRs with 100% sprint acceptance
+🥇 1st Prize – Engineering Project Competition
+🎓 Certifications
+✔️ Microsoft Azure Fundamentals
+✔️ SDET Java Automation Certification
+✔️ Full-Stack Software Testing
+✔️ Generative AI (Microsoft & LinkedIn)
+🟡 ISTQB CTFL (Scheduled)
+💬 My Testing Philosophy
 
+“Test without assertion is not a test”
+“Tools don’t matter unless you know how to build them”
+“Automation should accelerate, not complicate”
+“In God we trust, rest all must bring data”
 
-
-### 🛠️ Tech stack
-
-| Type         | Skills            |
-| -------------- | ---------        |
-| Web (Front-End) Automation    | Selenium WebDriver |
-| Mobile Automation    | Appium |
-| API Automation    | REST-Assured, Postman |
-| Script    | Core Java, Groovy, Linux/Unix cmds |
-| BDD Framework    | Cucumber, Cucumber-js, Gharkin |
-| CI/CD    |Jenkins CI |
-|Cloud    | AWS, Azure  |
-|Build Tool    | Maven |    
-| Database    | MySql, SQL, Teradata, Snowflake, Excel |
-| Unit Test Framework    | JUnit5, TestNG |
-| Version Control    | GIT, SVN [GitHub, Gitlab and BitBucket] |
-| Performance    | LoadRunner |
-|Reporting    | Allure, ExtentReports  |
-| IDE    | IntelliJ IDEA, Eclipse |
-| Defect Tracking and Project Management Tool    | JIRA, Zypher |
-| Test Management Tool    | XRay |
-| Dev Tools    | Spring Boot |
+📫 Let's Connect
+📧 rajendrashilin@gmail.com
+💼 Open to Immediate Joiner opportunities (SDET / QA Automation)
