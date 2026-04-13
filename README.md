@@ -1,56 +1,75 @@
-🚀 SDET | QA Automation Engineer (Java | Selenium | API)
+<h1 align="center">🚀 Rajendra Shilin</h1>
+<h3 align="center">SDET | QA Automation Engineer | Java • Selenium • API</h3>
 
-👋 Hi, I'm Rajendra Shilin — an experienced SDET / QA Automation Engineer with 4.5+ years of expertise in building scalable automation frameworks and testing enterprise-grade applications.
+<p align="center">
+  <img src="https://img.shields.io/badge/Automation-SDET-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/API-RestAssured-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UI-Selenium-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CI/CD-Jenkins-red?style=for-the-badge" />
+</p>
 
-💡 About Me
-🔹 Strong experience in API Automation (Rest Assured) & UI Automation (Selenium + Java)
-🔹 Expertise in designing TestNG + POM-based automation frameworks
-🔹 Worked on Airline Cargo Systems (SkyChain, ONO, PROS, IDP)
-🔹 Hands-on with CI/CD (Jenkins, Maven) and reporting tools
-🔹 Experience in ETL Testing & DB Validation (Teradata → Snowflake)
-🔹 Skilled in Manual + Automation Testing (Web, API, Mobile)
+<p align="center">
+  <a href="mailto:rajendrashilin@gmail.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/rajendrashilin">💼 LinkedIn</a>
+</p>
 
-🎯 Currently targeting SDET roles in product-based companies
+---
 
-🧠 What I Do
+## 👨‍💻 About Me
 
-✔️ Build end-to-end automation frameworks
-✔️ Automate REST APIs with validations & schema checks
-✔️ Design scalable test architecture using POM + TestNG
-✔️ Perform data validation, backend testing & integration testing
-✔️ Ensure quality across UI, API, DB layers
+- 🔹 4.5+ years of experience in **QA Automation & SDET**
+- 🔹 Expertise in **API Automation (Rest Assured)** & **UI Automation (Selenium + Java)**
+- 🔹 Built scalable **TestNG + POM frameworks**
+- 🔹 Worked on **Airline Cargo Systems (SkyChain, ONO, PROS, IDP)**
+- 🔹 Strong in **DB Testing, ETL & Backend Validation**
 
-🛠️ Tech Stack
-Category	Skills
-💻 Languages	Java (8, 17), SQL
-🌐 UI Automation	Selenium WebDriver
-🔗 API Testing	Rest Assured, Postman
-🧪 Frameworks	TestNG, Cucumber (BDD), POM
-⚙️ Build & CI/CD	Maven, Jenkins
-☁️ Cloud	Azure (Fundamentals), AWS (Basics)
-🗄️ Database	MySQL, Teradata, Snowflake
-📊 Reporting	Extent Reports, Allure
-🔧 Tools	Git, JIRA, XRay, Postman
-📱 Mobile	Appium
-🧰 Others	JSON/XML Validation, Log4j2, SLF4J
-🏆 Achievements
-🚀 Improved regression coverage by 60%
-⚡ Reduced manual effort by 40% via automation
-✅ Delivered multiple CRs with 100% sprint acceptance
-🥇 1st Prize – Engineering Project Competition
-🎓 Certifications
-✔️ Microsoft Azure Fundamentals
-✔️ SDET Java Automation Certification
-✔️ Full-Stack Software Testing
-✔️ Generative AI (Microsoft & LinkedIn)
-🟡 ISTQB CTFL (Scheduled)
-💬 My Testing Philosophy
+🎯 **Immediate Joiner | Targeting Product-Based Companies**
 
-“Test without assertion is not a test”
-“Tools don’t matter unless you know how to build them”
-“Automation should accelerate, not complicate”
-“In God we trust, rest all must bring data”
+---
 
-📫 Let's Connect
-📧 rajendrashilin@gmail.com
-💼 Open to Immediate Joiner opportunities (SDET / QA Automation)
+## 🧠 What I Do
+
+✔️ End-to-end Automation Framework Development  
+✔️ REST API Automation (Schema + Contract Validation)  
+✔️ UI Automation using Selenium WebDriver  
+✔️ Backend Testing & Database Validation  
+✔️ CI/CD Integration using Jenkins  
+
+---
+
+## 🛠️ Tech Stack
+
+`Java` `Selenium` `Rest Assured` `TestNG` `Cucumber` `Maven` `Jenkins` `SQL` `Postman` `Appium` `Allure` `Extent Reports`
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajshilin&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajshilin&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+- 🚀 Improved regression coverage by **60%**
+- ⚡ Reduced manual effort by **40%**
+- ✅ 100% sprint delivery success  
+- 🥇 Engineering Project Winner  
+
+---
+
+## 💬 Testing Philosophy
+
+> “Test without assertion is not a test”  
+> “Automation should accelerate, not complicate”  
+> “In God we trust, rest all must bring data”
+
+---
+
+## 📫 Let's Connect
+
+📧 rajendrashilin@gmail.com  
+💼 Open to **SDET / QA Automation Roles**
