@@ -1,4 +1,4 @@
-<h1 align="center"> Rajendra Shilin</h1>
+<h1 align="center"> **Rajendra Shilin** </h1>
 <h3 align="center">SDET | QA Automation Engineer | Java • Selenium • API</h3>
 
 <p align="center">
